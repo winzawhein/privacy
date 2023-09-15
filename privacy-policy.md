@@ -1,43 +1,53 @@
+Privacy Policy for Binfo-Calorie Tracker
 
-Privacy Policy
-Introduction
-Our privacy policy will help you understand what information we collect at binfo app, how binfo app uses it, and what choices you have. binfo app built the binfo app as a free app. This SERVICE is provided by binfo app at no cost and is intended for use as is. If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise defined in this Privacy Policy.
+Last Updated: 15.09.2023
 
-Information Collection and Use
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.
-The app does use third party services that may collect information used to identify you.
+1. Introduction
 
-Cookies
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.
+Welcome to Binfo-Calorie Tracker, a mobile application designed to help you track your daily calorie intake. Your privacy is important to us, and we are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your data when you use our app.
 
-This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+2. Information We Collect
 
-Location Information
-Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.
+2.1. Personal Information: When you sign up for Binfo-Calorie Tracker, we may collect your name, email address, and other optional information you provide during the registration process.
 
-Device Information
-We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.
+2.2. Calorie and Nutrition Data: To provide our core service, we collect data about the foods and beverages you log, including nutritional information and calorie counts.
 
-Service Providers
-We may employ third-party companies and individuals due to the following reasons:
+2.3. Usage Data: We may collect information about how you use the app, such as the features you interact with, the time spent on the app, and device information (e.g., device type, operating system).
 
-To facilitate our Service;
-To provide the Service on our behalf;
-To perform Service-related services; or
-To assist us in analyzing how our Service is used.
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+2.4. Location Data: We may request access to your device's location to enhance the accuracy of certain features, such as local restaurant recommendations.
 
-Security
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+3. How We Use Your Information
 
-Children’s Privacy
-This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
+3.1. Provide Services: We use your information to provide the calorie tracking and nutritional information services, as well as to customize your experience within the app.
 
-Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
+3.2. Communication: We may send you important notifications related to your account and updates about our app. You can opt out of non-essential communications.
 
-Contact Us
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
-Contact Information:
-Email: [info.earthlike@gmail.com]
+3.3. Improvement: Your data helps us improve our app, including adding new features and enhancing user experience.
+
+4. Data Security
+
+We take the security of your data seriously. We employ industry-standard security measures to protect your personal information from unauthorized access, disclosure, alteration, or destruction.
+
+5. Data Sharing
+
+5.1. Third-Party Services: We may share non-personal and aggregated data with third-party services for analytics and advertising purposes.
+
+5.2. Legal Compliance: We may disclose your information to comply with legal obligations or in response to law enforcement requests.
+
+6. Your Choices
+
+You can manage your personal information and privacy settings within the app. You can also request to delete your account and associated data.
+
+7. Children's Privacy
+
+Binfo-Calorie Tracker is not intended for use by children under the age of 13. We do not knowingly collect information from children under 13 without parental consent.
+
+8. Changes to this Privacy Policy
+
+We may update this Privacy Policy as our app evolves. Any changes will be reflected here, and we will notify you of significant updates via email or in-app notifications.
+
+9. Contact Us
+
+If you have any questions, concerns, or requests related to your privacy or this policy, please contact us at info@binfo.app .
+
+Thank you for using Binfo-Calorie Tracker. Your trust and privacy are important to us.
